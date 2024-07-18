@@ -1,5 +1,5 @@
 {
-  "Name": [
+  "Jazz": [
     {
       "name": "Jao Offer",
       "url": "https://jazz.com.pk/prepaid/boltay-jao-offer",
@@ -68,21 +68,6 @@
       "Price": "Rs.1,000 (Incl. Tax)",
       "Details": [
         {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "100-200"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "501"
-        },
-        {
           "Details": "10 GB Data"
         },
         {
@@ -104,21 +89,6 @@
       "Price": "Rs.417 (Incl. Tax)",
       "Details": [
         {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "50-100"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "101-300"
-        },
-        {
           "Details": "10 GB Data"
         },
         {
@@ -139,12 +109,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/monthly-gaming-and-social",
       "Price": "(Bal)",
       "Details": [
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "10 GB Data (WhatsApp, Facebook & Tamasha)"
         },
@@ -220,15 +184,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/weekly-sms-whatsapp-bundle",
       "Price": "Rs.34 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "25 MB WA"
         },
@@ -339,21 +294,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/weekly-all-network",
       "Price": "Rs.278 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "50-100"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "3 GB DATA"
         },
@@ -480,21 +420,6 @@
       "Price": "Rs.1,565 (Incl. Tax)",
       "Details": [
         {
-          "Details": "10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "200-500"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "501"
-        },
-        {
           "Details": "50 GB Data"
         },
         {
@@ -566,21 +491,6 @@
       "Price": "Rs.1,390 (Incl. Tax)",
       "Details": [
         {
-          "Details": "10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "200-500"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "501"
-        },
-        {
           "Details": "25 GB Data"
         },
         {
@@ -637,21 +547,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/lajawab-haftawar-offer",
       "Price": "Rs.156 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "3 GB ​DATA"
         },
@@ -721,18 +616,6 @@
       "Price": "Rs.147 (Incl. Tax)",
       "Details": [
         {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "3000 MB ​DATA"
         },
         {
@@ -766,21 +649,6 @@
       "Price": "Rs.78 (Incl. Tax)",
       "Details": [
         {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "501-1000"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "6 GB DATA"
         },
         {
@@ -802,18 +670,6 @@
       "Price": "Rs 304 (Incl. Tax)",
       "Details": [
         {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "101-300"
-        },
-        {
           "Details": "​5 GB Data"
         },
         {
@@ -831,21 +687,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/haftawaar-all-rounder-offer",
       "Price": "Rs.150 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "501-1000"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "1 GB DATA"
         },
@@ -868,12 +709,6 @@
       "Price": "Rs.30 (Incl. Tax)",
       "Details": [
         {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "5000 MB Data (11 PM - 9 AM)"
         }
       ]
@@ -885,18 +720,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/quetta-haftawar-offer",
       "Price": "Rs.260 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "50-100"
-        },
-        {
-          "Details": "3000-12000"
-        },
         {
           "Details": "12 GB Data"
         },
@@ -919,18 +742,6 @@
       "Price": "Rs.30 (Incl. Tax)",
       "Details": [
         {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "1000 MB DATA"
         },
         {
@@ -948,12 +759,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/nowshera-offer",
       "Price": "Rs.243 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "10 GB"
         },
@@ -973,15 +778,6 @@
       "Price": "Rs.12 (Incl. Tax)",
       "Details": [
         {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "250 MB Data"
         },
         {
@@ -999,12 +795,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/voice-infinity-offer",
       "Price": "Rs.130 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "​120 Jazz Mins"
         },
@@ -1030,18 +820,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/sindh-offer",
       "Price": "Rs.30 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "1000 MB DATA"
         },
@@ -1094,12 +872,6 @@
       "Price": "Rs.130 (Incl. Tax)",
       "Details": [
         {
-          "Details": "501-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "1GB Data"
         },
         {
@@ -1118,12 +890,6 @@
       "Price": "Rs.30 (Incl. Tax)",
       "Details": [
         {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "5000 MBs (11PM-9AM)"
         }
       ]
@@ -1133,15 +899,6 @@
       "url": "https://jazz.com.pk/prepaid/super-woman-bundle",
       "Price": "(Bal)",
       "Details": [
-        {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "12 GB DATA"
         },
@@ -1160,12 +917,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/karachi-haftawar-data-offer",
       "Price": "Rs.243 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "5 GB Data"
         },
@@ -1197,12 +948,6 @@
       "Price": "Rs.217 (Incl. Tax)",
       "Details": [
         {
-          "Details": "3000-5000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "500 Jazz Mins"
         },
         {
@@ -1220,21 +965,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/apna-shehr-haftawar-offer",
       "Price": "Rs.278 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "10 GBs + 10 GBs ​Whatsapp"
         },
@@ -1276,21 +1006,6 @@
       "Price": "Rs.478 (Incl. Tax)",
       "Details": [
         {
-          "Details": "10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "50-100"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "301-500"
-        },
-        {
           "Details": "30 GB ​DATA"
         },
         {
@@ -1311,21 +1026,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/gujrat-haftawar-offer",
       "Price": "Rs.173 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "10 GB Data"
         },
@@ -1411,21 +1111,6 @@
       "Price": "Rs.695 (Incl. Tax)",
       "Details": [
         {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "100-200"
-        },
-        {
-          "Details": "3000-12000"
-        },
-        {
-          "Details": "301-500"
-        },
-        {
           "Details": "10 GB Flat"
         },
         {
@@ -1490,18 +1175,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/peshawar-haftawar-offer",
       "Price": "Rs.260 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "5000-10000"
-        },
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-50"
-        },
-        {
-          "Details": "101-300"
-        },
         {
           "Details": "12 GB Data"
         },
@@ -1597,9 +1270,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/jazz-notify-me",
       "Details": [
         {
-          "Details": "0-100"
-        },
-        {
           "Details": "Always stay updated with Jazz Notify Me"
         }
       ]
@@ -1610,9 +1280,6 @@
       "Type": "End of Call",
       "Type_url": "https://jazz.com.pk/prepaid/end-call-notification",
       "Details": [
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "Know your balance after every call​"
         }
@@ -1625,9 +1292,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/missed-call-alert",
       "Details": [
         {
-          "Details": "0-100"
-        },
-        {
           "Details": "​Never miss any call again!"
         }
       ]
@@ -1637,15 +1301,6 @@
       "url": "https://jazz.com.pk/prepaid/3-day-max-offer",
       "Price": "Rs.78 (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-300"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "1 GB ​DATA"
         },
@@ -1689,9 +1344,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/uk-offer",
       "Details": [
         {
-          "Details": "0-100"
-        },
-        {
           "Details": "Stay connected with your loved ones in the UK"
         }
       ]
@@ -1714,9 +1366,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/jazz-easy",
       "Price": "Rs.3.50 / 60Sec (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-100"
-        }
       ]
     },
     {
@@ -1726,9 +1375,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/champions-package",
       "Price": "Rs.3.50 / 60sec (Incl. Tax)",
       "Details": [
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "Carrying the legacy forward of being a true Jazz Champion, Jazz presents the ‘Jazz Champion’! It is the default package on all new prepaid connections."
         }
@@ -1742,12 +1388,6 @@
       "Price": "Rs.3.50 / 60Sec",
       "Details": [
         {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
           "Details": "Enjoy lowest call rates on friends and family with Jazz One"
         }
       ]
@@ -1760,19 +1400,7 @@
       "Price": "Rs.30 (Incl. Tax)",
       "Details": [
         {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "1000"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
-        {
-          "Details": "​1000 MB DATA"
+          "Details": "1000 MB DATA"
         },
         {
           "Details": "​Unlimited Jazz Mins"
@@ -1811,9 +1439,6 @@
       "Type_url": "https://jazz.com.pk/prepaid/sponsor-me",
       "Details": [
         {
-          "Details": "0-100"
-        },
-        {
           "Details": "Make calls to anyone at the expense of a Sponsor"
         }
       ]
@@ -1824,9 +1449,6 @@
       "Type": "Jazz",
       "Type_url": "https://jazz.com.pk/prepaid/jazz-smart-sms",
       "Details": [
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "​Deliver your SMS to receiving party even if their number is powered off"
         }
@@ -1840,9 +1462,6 @@
       "Price": "Rs.3.50 / 60sec (Incl. Tax)",
       "Details": [
         {
-          "Details": "0-100"
-        },
-        {
           "Details": "Jazz Budget is designed to suit your socializing needs when you want to enjoy the freedom of speaking your heart out with friends and family, that too at affordable rates!"
         }
       ]
@@ -1853,18 +1472,6 @@
       "Type": "New",
       "Type_url": "https://jazz.com.pk/prepaid/new-sale-offer",
       "Details": [
-        {
-          "Details": "1000-3000"
-        },
-        {
-          "Details": "501-1000"
-        },
-        {
-          "Details": "0-1000"
-        },
-        {
-          "Details": "0-100"
-        },
         {
           "Details": "3000 MBs Data\n1000 Jazz Mins\n1000 SMS"
         }
